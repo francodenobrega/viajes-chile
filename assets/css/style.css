@@ -1,0 +1,19 @@
+#toto img{
+  height: 40rem;
+}
+
+hr {
+  padding-left:0.5rem;
+  padding-right:0.25rem;
+  height:1px;
+  border:0.5rem solid;
+}
+
+#final a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#space-end a{
+  padding-left: 0.8rem;
+}
