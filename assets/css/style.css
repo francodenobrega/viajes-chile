@@ -1,7 +1,9 @@
-#toto img{
-  height: 40rem;
+/*Agragamos fuentes de texto al body*/
+body {
+  font-family: 'Raleway', sans-serif;
 }
 
+/*Configuramos los hr divisores en el body*/
 hr {
   padding-left:0.5rem;
   padding-right:0.25rem;
@@ -9,11 +11,13 @@ hr {
   border:0.5rem solid;
 }
 
+/*Configuramos los iconos de redes sociales del footer*/
 #final a{
   color: #ffffff;
   text-decoration: none;
 }
 
+/*Configuramos los espacios del footer*/
 #space-end a{
   padding-left: 0.8rem;
 }
